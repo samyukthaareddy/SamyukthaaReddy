@@ -2,11 +2,20 @@
   <img src="https://raw.githubusercontent.com/SamyukthaaReddy/SamyukthaaReddy/main/laptopdp.gif" width="100%">
 </p>
 
-## Hi there 👋 I'm Samyukthaa Reddy
+<h1 align="center">Hi, I'm Samyukthaa Reddy 👋</h1>
 
-- 🔭 I'm currently working on **AI Agents & Network Security Projects**
-- 🌱 I'm currently learning **Machine Learning, Cloud Computing & Cybersecurity**
-- 👯 I'm looking to collaborate on **Open Source & AI-driven Projects**
-- 💬 Ask me about **Python, Networking, and AI**
-- 📫 How to reach me: **[GitHub](https://github.com/SamyukthaaReddy)**
-- ⚡ Fun fact: **I build agents that bounce bad networks 🚀**
+<p align="center">
+AI & GenAI Enthusiast • Python Developer • Open Source Contributor • Lifelong Learner
+</p>
+
+---
+
+### 💡 About Me
+
+- 🎓 Computer Science Engineering Student specializing in Generative AI
+- 💻 Interested in Artificial Intelligence, Machine Learning, and Software Engineering
+- 🚀 Developing AI-powered applications, automation workflows, and backend services
+- 🌱 Continuously expanding my knowledge in LLMs, Cloud Computing, Cybersecurity, and MLOps
+- 🤝 Looking to collaborate on innovative AI and open-source projects
+- 📚 Strong interest in problem-solving, Data Structures & Algorithms, and scalable software systems
+- 📫 Reach me via **[GitHub](https://github.com/SamyukthaaReddy)**
